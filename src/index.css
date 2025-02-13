@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Regular' ;
+    src: url('Lato-Regular'),
+    url('./assets/Lato/Lato-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Bold' ;
+    src: url('Lato-Regular'),
+    url('./assets/Lato/Lato-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Thin' ;
+    src: url('Lato-Regular'),
+    url('./assets/Lato/Lato-Thin.ttf') format('truetype');
+}

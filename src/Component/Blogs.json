@@ -1,5 +1,5 @@
 [
-    { "id":1,
+    { "id":"Blog1",
       "title": "The Honesty of Bilal",
       "lesson": "Truthfulness",
       "summary": "One sunny afternoon, Bilal was walking home from the market when he noticed something lying on the ground. As he got closer, he saw that it was a brown leather wallet. Curious, he picked it up and opened it slightly to check inside. The wallet was filled with money and a small card with a name on it: 'Mr. Kareem.' Bilal's heart raced. What should I do? he wondered. This money could buy me a new toy or some sweets! But then he remembered what his mother always told him: 'A true Muslim is always honest, even when no one is watching.' Determined to do the right thing, Bilal walked around the market asking if anyone knew Mr. Kareem. Finally, a shopkeeper recognized the name. 'Mr. Kareem is an elderly man who sells fabrics down the street,' he said. Bilal rushed to the shop and found Mr. Kareem looking worried. 'Sir, did you lose something?' Bilal asked politely. Mr. Kareem sighed. 'Yes, my wallet! I must have dropped it while walking home.' With a big smile, Bilal handed the wallet back to him. Mr. Kareem's face lit up with relief. 'Oh, dear boy, you are so honest! Many people would have taken the money, but you chose to return it. May Allah bless you for your honesty.' Bilal felt a warm happiness in his heart. He remembered the words of Prophet Muhammad (peace be upon him): 'Truthfulness leads to righteousness, and righteousness leads to Paradise.' (Bukhari & Muslim) As Bilal walked home, he felt proud of his choice. He knew that honesty always brings the greatest reward from Allah.",
@@ -7,7 +7,7 @@
       "img": "pics/bilal.webp"
     },
     {
-        "id":2,
+        "id":"Blog2",
       "title": "Aisha and the Power of Dua",
       "lesson": "The Importance of Prayer",
       "summary": "Aisha was a kind-hearted and loving girl who lived with her family in a small, peaceful town. Her mother was the heart of their home, always taking care of everyone with warmth and affection. But one day, her mother fell seriously ill. She was too weak to get out of bed, and despite the doctors' efforts, her health did not improve. Aisha felt helpless watching her mother in pain. She remembered how her mother had always told her, 'Whenever you are in need, turn to Allah, for He is the Most Merciful.' So, every night before bed, Aisha would sit by her mother’s side, raise her tiny hands in dua, and whisper heartfelt prayers: 'Ya Allah, please heal my mother. Make her strong again so she can smile, laugh, and take care of us like before.' Days passed, and though the medicines helped a little, Aisha’s mother still seemed weak. But Aisha did not lose hope. She continued making dua, trusting that Allah was listening. One morning, Aisha woke up to the wonderful sound of her mother’s voice, calling her for breakfast. She ran to her mother’s room and saw her sitting up, looking much healthier than before. Her face glowed with happiness, and she hugged Aisha tightly. 'The doctor said it’s a miracle,' her father said with a smile. 'Your mother is finally getting better!' Aisha’s heart filled with joy. She knew it wasn’t just the medicine—it was also the power of dua. From that day on, Aisha never doubted that Allah listens to the prayers of those who call upon Him with sincerity.",
@@ -16,7 +16,7 @@
   
     },
     {
-        "id":3,
+        "id":"Blog3",
       "title": "Omar and the Neighbor’s Cat",
       "lesson": "Kindness to Animals",
       "summary": "Omar loved playing outside after school. One afternoon, he noticed a thin, hungry cat sitting under a tree. Instead of ignoring it, he broke his sandwich into small pieces and fed the cat. The cat purred happily and rubbed against his leg. Later that day, Omar’s father told him the story of a woman who was forgiven by Allah simply because she gave water to a thirsty dog. Omar smiled, realizing how small acts of kindness could bring great blessings.",
@@ -25,7 +25,7 @@
   
     },
     {
-        "id":4,
+        "id":"Blog4",
       "title": "Yousuf’s Patience",
       "lesson": "Sabr - Patience in Hard Times",
       "summary": "Yousuf was often teased by some boys at school. They would make fun of his clothes and call him names. Though it hurt him, he never reacted with anger. Instead, he remained patient and kind. One day, his teacher noticed what was happening and spoke to the bullies. They realized their mistake and apologized. Yousuf’s mother reminded him of Prophet Yusuf (AS), who faced many hardships but remained patient, and was later rewarded with great success.",
@@ -34,7 +34,7 @@
   
     },
     {
-        "id":5,
+        "id":"Blog5",
       "title": "The Sharing Hands of Fatima",
       "lesson": "Charity - Sadaqah",
       "summary": "Fatima received a beautiful new scarf as a gift. She loved it, but one day she saw a poor girl in the market with torn clothes. Without hesitation, she took off her scarf and gave it to the girl. The girl’s face lit up with joy. That evening, when Fatima returned home, her aunt had brought her an even more beautiful scarf as a surprise gift. She smiled, realizing that giving to others always brings unexpected blessings.",
@@ -43,7 +43,7 @@
   
     },
     {
-        "id":6,
+        "id":"Blog6",
       "title": "Ahmed’s Promise",
       "lesson": "Keeping Trust - Amanah",
       "summary": "Ahmed borrowed a toy car from his friend Hamza, promising to return it the next day. But he forgot and kept it for weeks. When he finally remembered, he was embarrassed to return it. Gathering his courage, Ahmed took the toy back and apologized. Hamza smiled and said, 'A true Muslim always keeps his promises.' Ahmed felt relieved, realizing that keeping trust is an important part of being a good person.",
